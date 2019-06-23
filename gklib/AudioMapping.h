@@ -14,7 +14,7 @@ namespace audiomapping {
 		const AudioFile cold = {7,6};
 		const AudioFile hot = {8,4};
 		const AudioFile sun = {9,5};
-		const AudioFile good = {10, 1};
+		const AudioFile good = {10, 6};
 	} const static Alert;
 
 	struct AudioSetup {
